@@ -1,0 +1,42 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: #f8bc99;
+	color: #1d1d1d;
+}
+.math{
+	gap: 240px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.español{
+    gap: 240px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+.historia{
+    gap: 240px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+.sociales{
+    gap: 240px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+.musica{
+    gap: 240px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+.ingles{
+    gap: 240px;
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}

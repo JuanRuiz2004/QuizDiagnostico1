@@ -1,0 +1,98 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: #f8bc99;
+	color: #1d1d1d;
+}
+.titulo{
+    text-align: center;
+    border-radius: 25px;
+    background-color: white;
+    max-width: 1000px;
+    margin: 40px auto 100px auto;
+    border: 25px solid transparent
+}
+
+
+.contenedor {
+	width: 1200%;
+	max-width: 1700px;
+	margin: 40px auto 100px auto;
+
+	display: grid;
+	grid-template-columns: repeat(3, 4fr);
+	gap: 240px;
+}
+.math{
+
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+.math{
+
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.español{
+
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.historia{
+
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.sociales{
+
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.musica{
+
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+.ingles{
+
+    border-radius: 20px;
+    background-color: white;
+    text-align: center;
+}
+.img{
+    width: 82%;
+   
+}
+.historia1{
+    width:160px;
+}
+.music1{
+    width: 500px;
+}
+.esp1{
+    width: 300px;
+}
+.boton{
+
+    background: #341288;
+	align-items: center;
+	gap: 2px;
+	padding: 3px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	transition: .3s ease all;
+
+}
+.boton:hover{
+    background: #250064;
+}
